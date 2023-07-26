@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="ISO-8859-1">
+	<style type="text/css">
+		form {
+			display: flex;
+			justify-content: center;
+			align-content: center;
+			text-align: center;
+		}
+
+		table {
+			border-style: solid;
+			border-radius: 15px;
+			padding: 25px;
+			font-size: xx-large;
+		}
+	</style>
+	<title>Update Profile</title>
+</head>
+
+<body>
+	<form action="update" method="post">
+
+		<table>
+			<tr>
+				<td colspan="2">
+					<h1>Update Profile</h1>
+				</td>
+			</tr>
+			<tr>
+				<td>Name </td>
+				<td> <input type="text" name="name"></td>
+			</tr>
+			<tr>
+				<td>Email </td>
+				<td> <input type="email" name="email"></td>
+			</tr>
+			<tr>
+				<td>Contact </td>
+				<td> <input type="tel" name="contact"></td>
+			</tr>
+			<tr>
+				<td>Address </td>
+				<td> <input type="text" name="address"></td>
+			</tr>
+			<tr>
+				<td colspan="2"> <input type="submit"></td>
+			</tr>
+		</table>
+	</form>
+</body>
+
+</html>
