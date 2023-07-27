@@ -2,11 +2,20 @@ Welcome to Manikanth-Reddy's Java Junction, your gateway to a powerful and dynam
 
 Explore the seamless integration of Servlets and JSP, providing real-time interactivity and responsive UI. Dive into the front-end code written in HTML, ensuring an intuitive and user-friendly interface. Behind the scenes, discover the robust MySQL database that stores and manages data flawlessly. The JDBC layer facilitates seamless communication between the application and the database.
 
-Key Features:
+**Key Features:**
+
 🔹 Dynamic web application developed with Servlets, JSP, HTML, MySQL, and JDBC.
+
 🔹 Interactive user interface for a seamless user experience.
+
 🔹 Efficient database management with MySQL.
+
 🔹 JDBC integration for smooth data handling.
+
 🔹 Comprehensive and well-structured codebase for easy understanding and customization.
+
+**Contact**
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out to me at manikanth18100@protonmail.com.
 
 Join us in this exciting journey at WebAppXpress, where you can learn, contribute, and collaborate to take your web development skills to new heights! Don't forget to ⭐️Star⭐️ this repository to show your support. Happy coding! 😄🌟💻
